@@ -1,14 +1,23 @@
 # Springboot Web Skeleton
 
-## Build the project
+## Build and Run the Project
+
+Clone:
 
 ```bash
 $ git clone git@github.com:yavivi/springboot-web-skeleton.git
-
 $ cd springboot-web-skeleton
+```
 
+Build:
+
+```bash
 $ ./gradlew build
+```
 
+Run the Server:
+
+```bash
 $ java -jar build/libs/springboot-skeleton-0.1.0.jar
 ```
 
