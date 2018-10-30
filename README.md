@@ -18,7 +18,7 @@ $ ./gradlew build
 Run the Server:
 
 ```bash
-$ java -jar build/libs/springboot-skeleton-0.1.0.jar
+$ java -jar build/libs/springboot-web-skeleton-1.0.0.jar
 ```
 
 Server will be available at: http://localhost:5050
