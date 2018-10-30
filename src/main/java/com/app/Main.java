@@ -1,4 +1,4 @@
-package com.att.app;
+package com.app;
 
 public class Main {
 	

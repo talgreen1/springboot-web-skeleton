@@ -1,4 +1,4 @@
-package com.att.app;
+package com.app;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
